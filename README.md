@@ -1,6 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrevailExcel&label=Profile%20views&color=0e75b6&style=flat" alt="PrevailExcel" /> &nbsp
- <a href="https://twitter.com/henry_ifechukwu" target="blank"><img src="https://img.shields.io/twitter/follow/EjimaduPrevail?logo=twitter&style=flat&color=blueviolet" alt="EjimaduPrevail" /></a> </p>
+ <a href="https://twitter.com/EjimaduPrevail" target="blank"><img src="https://img.shields.io/twitter/follow/EjimaduPrevail?logo=twitter&style=flat&color=blueviolet" alt="EjimaduPrevail" /></a> </p>
 
 ---
 
