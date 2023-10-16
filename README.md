@@ -1,23 +1,42 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrevailExcel&label=Profile%20views&color=0e75b6&style=flat" alt="PrevailExcel" /> &nbsp
- <a href="https://twitter.com/EjimaduPrevail" target="blank"><img src="https://img.shields.io/twitter/follow/EjimaduPrevail?logo=twitter&style=flat&color=blueviolet" alt="EjimaduPrevail" /></a> </p>
+ <a href="https://x.com/EjimaduPrevail" target="blank"><img src="https://img.shields.io/twitter/follow/EjimaduPrevail?logo=twitter&style=flat&color=blueviolet" alt="EjimaduPrevail" /></a> </p>
 
 ---
 
-- 👋 Hi, I’m Chimeremeze Prevail Ejimadu
-- 👀 I enjoy building APIs and Backends for applications
-- 🌱 I love Laravel framework so much, I also love the VueJs framework too, together they are my best combination for a fullstack project.
-- I write a lot of very detailed technical articles around the laravel framework on my medium page here. [medium]: https://medium.com/@prevailexcellent
- 
-- 👌 I'm really interested in the blockchain technology that I find myself making reserches concernig how to use it in solving local problems.
-- 😍 I would also want to mention this special project that I was a part of - <b>iQuest</b>, you would check it out here <b>https://iquest.com.ng</b>
-- 🎍 My goal is simple: build solutions to the problems I've been exposed to and find joy in seeing people using it, when it's actually solving a problem.
-- 🙃 I have built a number of open source Laravel packages used by other developers all over the world.
-- 💞️ When I'm not coding, I'm writing poetry or a short story, or you might find me playing the guitar
-- 📫 You can reach me on <a href="https://wa.me/2348130138694" target="_blank">Whatsapp</a> or through any of these 
-[twitter]: https://twitter.com/EjimaduPrevail
-[linkedin]: https://linkedin.com/in/chimeremeze-prevail-ejimadu-3a3535219
-[medium]: https://medium.com/@prevailexcellent
+Hi, I’m Chimeremeze Prevail Ejimadu
+<p align="left">I'm a result-oriented software engineer (web developer) majoring on the backend with 5+ years of professional experience and team work, communication and leadership ability. I build result oriented and solution optimized websites and APIs. </p>
+
+<p align="left">Over the past 3 years, I have helped 4 startups scale up their development as a lead and backend developer. I love building efficient backend solutions and adding value to organizations. </p>
+
+<p align="left">I have built up to 4 useful packages for the laravel ecosystem and have contributed to some; notably, the Laravel paystack package.</p>
+
+<p align="left">I have extensive knowledge working with but not limited to the Laravel Ecosystem.As a backend engineer, my expertise primarily lies in developing robust server-side applications, managing databases, and optimizing system performance. However, I also have a basic understanding of design principles and the process of translating frontend layouts created in Figma or Adobe XD into functional code using Vue.js.</p>
+
+<p align="left">I work with the following technologies: PHP | Laravel | MySQL | Lumen | HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | Vue.js | AWS | Digital Ocean Droplets | Docker | Netlify | Firebase | Git & Github </p>
+
+<p align="left">I write clean, maintainable and scalable code taking performance, speed and user-experience into careful consideration.</p>
+
+<p align="left">My strengths include my very deep understanding of the Laravel framework, I also have a strong grasp of data structure libraries, excellent communication and collaboration skills enable me to work effectively with other developers, testers, and product managers. I have a proven track record of using Git and GitHub for version control and collaboration, experience in integrating with external systems through RESTful and/or GraphQL APIs and a history of delivering projects with high-quality, efficient, and reliable backend solutions.</p>
+
+<p align="left">I maintain a laravel blog on medium with over 6000+ monthly viewership as at 16th October, 2023. I write detailed solution-focused articles concerning software development within the laravel ecosystem.</p>
+
+<p align="left">I have been invited to speak at several tech events and seminars including Tech Talk, GitHub Student Meetups and more. I have also hosted conferences in the past years with great results.</p>
+
+<p align="left">In one sentence, I love delivering value.</p>
+
+<p align="left">I'm open to web developer or backend engineer roles in a supportive environment where I can contribute my own quota for the growth of the organization. and freelance projects relating to web design and software development, PHP or Laravel projects, Javascript or VueJS projects.</p>
+
+<p align="left">Thank you.</p>
+
+
+You can reach me via 
+- <a href="https://wa.me/2348130138694" target="_blank">Whatsapp</a>
+- [X (or Twitter)](https://twitter.com/EjimaduPrevail)
+- [Linkedin](https://linkedin.com/in/chimeremeze-prevail-ejimadu-3a3535219)
+- [Medium](https://medium.com/@prevailexcellent)
+- [Facebook](https://web.facebook.com/profile.php?id=61550842523061)
+- [Selar](https://selar.co/m/prevailexcellent)
 
 ---
 
