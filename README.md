@@ -3,32 +3,26 @@
  <a href="https://x.com/EjimaduPrevail" target="blank"><img src="https://img.shields.io/x/follow/EjimaduPrevail?logo=x&style=flat&color=blueviolet" alt="EjimaduPrevail" /></a> </p>
 
 ---
+Hi, I’m Chimeremeze Prevail Ejimadu 👋
 
-Hi, I’m Chimeremeze Prevail Ejimadu
-<p align="left">I'm a result-oriented software engineer (web developer) majoring on the backend with 6+ years of professional experience and team work, communication and leadership ability. I build result oriented and solution optimized websites and APIs. </p>
+I’m a result-driven software engineer and product builder with 6+ years of professional experience in web and backend development. My focus is on building scalable, efficient systems and intuitive products that deliver real value.
 
-<p align="left">Over the past 3 years, I have helped 4 startups scale up their development as a lead and backend developer. I love building efficient backend solutions and adding value to organizations. </p>
+Over the past 3 years, I’ve helped 4 startups scale their technology as a lead and backend engineer, driving performance, team collaboration, and product delivery.
 
-<p align="left">I have built up to 4 useful packages for the laravel ecosystem and have contributed to some; notably, the Laravel paystack package.</p>
+I started out deeply rooted in the Laravel ecosystem, where I’ve built and contributed to multiple open-source packages — including a popular Laravel Paystack integration. Today, my work spans beyond Laravel into AI-powered tools, Telegram bots, Electron desktop apps, and blockchain-based systems.
 
-<p align="left">I have extensive knowledge working with but not limited to the Laravel Ecosystem. As a backend engineer, my expertise primarily lies in developing robust server-side applications, managing databases, and optimizing system performance. However, I also have a basic understanding of design principles and the process of translating frontend layouts created in Figma or Adobe XD into functional code using Vue.js.</p>
+I’m passionate about building things that work beautifully — whether it’s a backend API, a microservice, or a full product from idea to launch.
 
-<p align="left">I work with the following technologies: PHP | Rust | Tact | TypeScript | JavaScript | Laravel | MySQL | Lumen | HTML | CSS | Bootstrap | Tailwind CSS | Vue.js | AWS | Digital Ocean Droplets | Docker | Netlify | Firebase | Git & Github </p>
+Tech Stack:
+PHP · Rust · TypeScript · JavaScript · Laravel · Vue.js · MySQL · Lumen · Tact · AWS · Docker · Firebase · DigitalOcean · Netlify · Tailwind CSS
 
-<p align="left">I write clean, maintainable and scalable code taking performance, speed and user-experience into careful consideration.</p>
+I also maintain a Laravel-focused blog on Medium with over 12,000+ monthly readers, where I write detailed, practical articles for developers.
 
-<p align="left">My strengths include my very deep understanding of the Laravel framework, I also have a strong grasp of data structure libraries, excellent communication and collaboration skills enable me to work effectively with other developers, testers, and product managers. I have a proven track record of using Git and GitHub for version control and collaboration, experience in integrating with external systems through RESTful and/or GraphQL APIs and a history of delivering projects with high-quality, efficient, and reliable backend solutions.</p>
+I’ve spoken at Tech Talk, GitHub Student Meetups, and other developer events, and I love sharing what I learn with the community.
 
-<p align="left">I maintain a laravel blog on medium with over 12000+ monthly viewership as at 20th November, 2023. I write detailed solution-focused articles concerning software development within the laravel ecosystem.</p>
+In one sentence — I build useful things that help people and businesses grow.
 
-<p align="left">I have been invited to speak at several tech events and seminars including Tech Talk, GitHub Student Meetups and more. I have also hosted conferences in the past years with great results.</p>
-
-<p align="left">In one sentence, I love delivering value.</p>
-
-<p align="left">I'm open to web developer or backend engineer roles in a supportive environment where I can contribute my own quota for the growth of the organization. and freelance projects relating to web design and software development, PHP or Laravel projects, Javascript or VueJS projects.</p>
-
-<p align="left">Thank you.</p>
-
+I’m open to backend, full-stack, or AI product engineering roles, as well as freelance collaborations around Laravel, Vue, bots, or automation tools.
 
 You can reach me via 
 - <a href="https://wa.me/2348130138694" target="_blank">Whatsapp</a>
