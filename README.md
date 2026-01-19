@@ -5,7 +5,7 @@
 ---
 Hi, I’m Chimeremeze Prevail Ejimadu 👋
 
-I’m a result-driven software engineer and product builder with 6+ years of professional experience in web and backend development. My focus is on building scalable, efficient systems and intuitive products that deliver real value.
+I’m a result-driven software engineer and product builder with 7+ years of professional experience in web and backend development. My focus is on building scalable, efficient systems and intuitive products that deliver real value.
 
 Over the past 3 years, I’ve helped 4 startups scale their technology as a lead and backend engineer, driving performance, team collaboration, and product delivery.
 
@@ -36,9 +36,6 @@ You can reach me via
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats-phi-six.vercel.app/api?username=PrevailExcel&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrevailExcel&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streak Stats Activity
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PrevailExcel&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
